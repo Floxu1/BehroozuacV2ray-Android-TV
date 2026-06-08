@@ -64,6 +64,7 @@
 - `BehroozuacV2ray-TV-ARMEABI-V7A-1.0.5.apk`
 - `BehroozuacV2ray-TV-X86-1.0.5.apk`
 - `BehroozuacV2ray-TV-X86_64-1.0.5.apk`
+- `BehroozuacV2ray-TV-UNIVERSAL-1.0.5`
 
 ---
 
