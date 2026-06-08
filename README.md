@@ -1,5 +1,7 @@
 <div dir="rtl" align="right">
 
+
+
 # BehroozuacV2ray Android TV
 
 **Behroozuac V2ray** نسخه مخصوص Android TV پروژه v2rayNG است؛ با پکیج:
@@ -19,6 +21,12 @@
 در تلویزیون یک QR Code نمایش داده می‌شود. کاربر با موبایل آن را اسکن می‌کند، وارد یک صفحه وب محلی می‌شود، کانفیگ‌ها را داخل فرم قرار می‌دهد و با ارسال فرم، کانفیگ‌ها مستقیم داخل برنامه Android TV اضافه می‌شوند.
 
 این قابلیت برای Android TV بسیار کاربردی است، چون کاربر مجبور نیست لینک‌های طولانی V2Ray را با ریموت کنترل تایپ کند.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e418a815-1c6e-41b7-8922-f62c3711c376" height="550" />
+  <img src="https://github.com/user-attachments/assets/bc7687f1-0a68-4f30-adc3-96d4697b9719" height="420" />
+  <img src="https://github.com/user-attachments/assets/63d39cd1-c896-4309-9788-1be6877d1d72" height="420" />
+</div>
+
 
 ---
 
@@ -34,6 +42,9 @@
 - بدون کانفیگ داخلی در نسخه اوپن‌سورس
 - غیرفعال بودن HEV TUN به‌صورت پیش‌فرض برای جلوگیری از crash هنگام نبود `libhev-socks5-tunnel.so`
 - استفاده از `libv2ray.aar` رسمی AndroidLibXrayLite داخل مسیر `V2rayNG/app/libs`
+
+
+<img width="1909" height="1083" alt="Screenshot 2026-06-08 050719" src="https://github.com/user-attachments/assets/d2d6646d-a1bc-459c-a181-14447c3f0d74" />
 
 ---
 
