@@ -56,9 +56,9 @@
 
 نسخه پیشنهادی برای Android TV 11:
 
-`BehroozuacV2ray-TV-UNIVERSAL-1.0.5.apk`
+[BehroozuacV2ray-TV-ARMEABI-V7A-1.0.5.apk](https://release-assets.githubusercontent.com/github-production-release-asset/1262438713/06c6bbf1-4821-4ddf-a10d-587a7e53e098?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-08T03%3A07%3A17Z&rscd=attachment%3B+filename%3DBehroozuacV2ray-TV-ARMEABI-V7A-1.0.5.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-08T02%3A06%3A37Z&ske=2026-06-08T03%3A07%3A17Z&sks=b&skv=2018-11-09&sig=jdCv%2BNFuxVjtP83SjAsPQJ%2F3huDuuJ3YcCOD51soZGc%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDg4NjkxNSwibmJmIjoxNzgwODg1MTE1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.3nAglH8JmC9aRanSGUpk1JUDZz9yGe587R_Csog-jcw&response-content-disposition=attachment%3B%20filename%3DBehroozuacV2ray-TV-ARMEABI-V7A-1.0.5.apk&response-content-type=application%2Fvnd.android.package-archive)
 
-این نسخه Universal برای نصب روی Android TV 11 سازگاری بهتری دارد. اگر هنگام نصب پیام `App not installed` دریافت کردید، می‌توانید نسخه‌های دیگر را هم تست کنید:
+این نسخه ARMEABI-V7A برای نصب روی Android TV 11 سازگاری بهتری دارد. اگر هنگام نصب پیام `App not installed` دریافت کردید، می‌توانید نسخه‌های دیگر را هم تست کنید:
 
 - `BehroozuacV2ray-TV-ARM64-V8A-1.0.5.apk`
 - `BehroozuacV2ray-TV-ARMEABI-V7A-1.0.5.apk`
