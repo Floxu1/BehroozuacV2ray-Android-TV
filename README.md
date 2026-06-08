@@ -22,9 +22,9 @@
 
 این قابلیت برای Android TV بسیار کاربردی است، چون کاربر مجبور نیست لینک‌های طولانی V2Ray را با ریموت کنترل تایپ کند.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e418a815-1c6e-41b7-8922-f62c3711c376" height="550" />
-  <img src="https://github.com/user-attachments/assets/bc7687f1-0a68-4f30-adc3-96d4697b9719" height="420" />
-  <img src="https://github.com/user-attachments/assets/63d39cd1-c896-4309-9788-1be6877d1d72" height="420" />
+  <img src="https://github.com/user-attachments/assets/e418a815-1c6e-41b7-8922-f62c3711c376" height="320" />
+  <img src="https://github.com/user-attachments/assets/bc7687f1-0a68-4f30-adc3-96d4697b9719" height="320" />
+  <img src="https://github.com/user-attachments/assets/63d39cd1-c896-4309-9788-1be6877d1d72" height="320" />
 </div>
 
 
