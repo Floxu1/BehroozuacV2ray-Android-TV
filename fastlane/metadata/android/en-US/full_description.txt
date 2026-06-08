@@ -1,0 +1,16 @@
+<p>Behroozuac V2ray is an Android TV build based on v2rayNG, packaged as com.behroozuac.v2raytv and optimized for TV remote controls.</p>
+
+<h3>Telegram Channel</h3>
+<p><a href="https://t.me/UacSniSpoofer">t.me/UacSniSpoofer</a></p>
+
+<h3>Main Features</h3>
+<ul>
+<li>Android TV dark/neon UI with larger rows and focus states.</li>
+<li>Connect button tests all imported configs with real ping and connects to the lowest-delay config.</li>
+<li>Clicking a config connects that exact config.</li>
+<li>Add configs by phone: scan the TV QR code with a phone, paste configs into the local web page, and send them to the Android TV app.</li>
+<li>No built-in proxy configs in the public build.</li>
+</ul>
+
+<h3>Source Code</h3>
+<p><a href="https://github.com/Floxu1/BehroozuacV2ray-Android-TV">github.com/Floxu1/BehroozuacV2ray-Android-TV</a></p>

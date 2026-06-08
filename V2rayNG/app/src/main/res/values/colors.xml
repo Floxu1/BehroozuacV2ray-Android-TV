@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPing">#2DE38A</color>
+    <color name="colorPingRed">#FF4D7D</color>
+    <color name="colorConfigType">#28E6D6</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="color_fab_active">#28E6D6</color>
+    <color name="color_fab_inactive">#143638</color>
+    <color name="divider_color_light">#243436</color>
+    <color name="colorIndicator">#28E6D6</color>
+
+    <!-- Primary colors - main tone: black -->
+    <color name="md_theme_primary">#28E6D6</color>
+    <color name="md_theme_onPrimary">#001313</color>
+    <color name="md_theme_primaryContainer">#123A3B</color>
+    <color name="md_theme_onPrimaryContainer">#D9FFFB</color>
+
+    <!-- Secondary colors - accent color: orange -->
+    <color name="md_theme_secondary">#2DE38A</color>
+    <color name="md_theme_onSecondary">#00150A</color>
+    <color name="md_theme_secondaryContainer">#123D28</color>
+    <color name="md_theme_onSecondaryContainer">#D6FFE8</color>
+
+    <!-- Tertiary colors - accent color: green -->
+    <color name="md_theme_tertiary">#009966</color>
+    <color name="md_theme_onTertiary">#FFFFFF</color>
+    <color name="md_theme_tertiaryContainer">#A0F2D0</color>
+    <color name="md_theme_onTertiaryContainer">#00201A</color>
+
+    <!-- Error colors -->
+    <color name="md_theme_error">#BA1A1A</color>
+    <color name="md_theme_errorContainer">#FFDAD6</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_onErrorContainer">#410002</color>
+
+    <!-- Background colors -->
+    <color name="md_theme_background">#050708</color>
+    <color name="md_theme_onBackground">#F3FFFF</color>
+
+    <!-- Surface colors -->
+    <color name="md_theme_surface">#0B1011</color>
+    <color name="md_theme_onSurface">#F3FFFF</color>
+    <color name="md_theme_surfaceVariant">#162224</color>
+    <color name="md_theme_onSurfaceVariant">#B7C9CA</color>
+    <color name="md_theme_inverseSurface">#313033</color>
+    <color name="md_theme_inverseOnSurface">#F4EFF4</color>
+
+    <!-- Outline colors -->
+    <color name="md_theme_outline">#79747E</color>
+    <color name="md_theme_outlineVariant">#CAC4D0</color>
+
+    <!-- Other colors -->
+    <color name="md_theme_inversePrimary">#C0C0C0</color>
+    <color name="md_theme_shadow">#000000</color>
+    <color name="md_theme_surfaceTint">#000000</color>
+    <color name="md_theme_scrim">#000000</color>
+</resources>
