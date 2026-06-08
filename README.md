@@ -22,7 +22,9 @@
 
 این قابلیت برای Android TV بسیار کاربردی است، چون کاربر مجبور نیست لینک‌های طولانی V2Ray را با ریموت کنترل تایپ کند.
 نکته : اگر از قابلیت Add configs by phone میخواین استفاده کنید باید موبایل و تلویزیون شما به یک وای فای متصل باشن.
+
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/4cab6e9f-9b83-46ba-8a81-eb5ce49bbeae" height="320" />
   <img src="https://github.com/user-attachments/assets/e418a815-1c6e-41b7-8922-f62c3711c376" height="320" />
   <img src="https://github.com/user-attachments/assets/bc7687f1-0a68-4f30-adc3-96d4697b9719" height="320" />
   <img src="https://github.com/user-attachments/assets/63d39cd1-c896-4309-9788-1be6877d1d72" height="320" />
